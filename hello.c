@@ -10,5 +10,6 @@ int multiply(int a, int b){
 
 int main(){
 	printf("Hello World!");
+	printf("test stash");
 	return 0;
 }
