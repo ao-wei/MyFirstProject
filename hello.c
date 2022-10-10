@@ -1,10 +1,10 @@
 #include<stdio.h>
 
+int multiply(int a, int b){
+	return a*b;
+}
+
 int main(){
-<<<<<<< HEAD
 	printf("Hello World!");
-=======
-	printf("Hello world!");
->>>>>>> main
 	return 0;
 }
